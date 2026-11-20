@@ -1,1 +1,2 @@
-# breachpoint
+# BreachPoint
+GitHub Pages starter prototype.
